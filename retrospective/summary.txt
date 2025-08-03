@@ -1,0 +1,2 @@
+Merge Conflict Resolution:
+The conflict occurred in README.md when merging the Test branch into the Working branch. Both branches edited the same line with different content. The conflict was resolved by manually editing the file to include a combined version. The three changes I made were creating a new file, adding a simple comment.
